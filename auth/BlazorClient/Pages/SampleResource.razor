@@ -1,0 +1,25 @@
+﻿@page "/resources"
+<h3>Sample Resource</h3>
+
+<div class="row">
+    @if (_resources.Any())
+    {
+        @foreach (var r in _resources)
+        {
+            <div class="col-6 col-sm-12 col-md-6 col-lg-4 col-xl-4 mh-25 mb-4">
+                <div class="card shadow-sm rounded">
+                    <div class="card-body">
+                        <h5 class="card-title"><b>@r.Name</b></h5>
+                    </div>
+                    <div class="card-footer text-muted">
+                        <span>@r.Id</span>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No coffees available</p>
+    }
+</div>

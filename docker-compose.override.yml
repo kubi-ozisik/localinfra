@@ -1,0 +1,74 @@
+version: '3.4'
+
+services:
+  portainer:
+    container_name: portainer
+    restart: always
+    ports:
+      - "8080:8000"
+      - "9000:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+
+  # redis_local:
+  #   container_name: redis_local
+  #   restart: always
+  #   ports:
+  #     - "6379:6379"
+
+  # mongo_local:
+  #   container_name: mongo_local
+  #   restart: always
+  #   ports:
+  #     - "27017:17017"
+  #   volumes:
+  #     - mongo_local_data:/data/db
+    
+
+  # postgres_local:
+  #   container_name: postgres_local
+  #   environment:
+  #     - POSTGRES_USER=admin
+  #     - POSTGRES_PASSWORD=password
+  #     - POSTGRES_DB=localdb
+  #   restart: always
+  #   ports:
+  #     - "5432:5432"
+  #   volumes:
+  #     - postgres_local_data:/var/lib/postgresql/data
+  # pgadmin:
+  #   container_name: pgadmin
+  #   environment:
+  #     - PGADMIN_DEFAULT_EMAIL=admin@admin.com
+  #     - PGADMIN_DEFAULT_PASSWORD=admin1234
+  #   restart: always
+  #   ports:
+  #     - "5050:80"
+  #   volumes:
+  #     - pgadmin_local_data:/root/.pgadmin
+
+  sqlserver_local:
+    container_name: sqlserver_local
+    environment:
+      SA_PASSWORD: "Local1234"
+      ACCEPT_EULA: "Y"
+    restart: always
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_local_data:/var/opt/mssql
+
+  # rabbitmq_local:
+  #   container_name: rabbitmq_local
+  #   restart: always
+  #   ports:
+  #     - "5672:5672"
+  #     - "15672:15672"
+
+volumes:
+  sqlserver_local_data:
+  mongo_local_data:
+  portainer_data:
+  postgres_local_data:
+  pgadmin_local_data:

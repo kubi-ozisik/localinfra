@@ -1,0 +1,17 @@
+C:\repos\infra\localinfra\auth\AspNetIdentity\bin\Debug\net6.0\AspNetIdentity.deps.json
+C:\repos\infra\localinfra\auth\AspNetIdentity\bin\Debug\net6.0\AspNetIdentity.dll
+C:\repos\infra\localinfra\auth\AspNetIdentity\bin\Debug\net6.0\AspNetIdentity.pdb
+C:\repos\infra\localinfra\auth\AspNetIdentity\bin\Debug\net6.0\IdentityServerCore.dll
+C:\repos\infra\localinfra\auth\AspNetIdentity\bin\Debug\net6.0\IdentityServerCore.Storage.dll
+C:\repos\infra\localinfra\auth\AspNetIdentity\bin\Debug\net6.0\IdentityServerCore.pdb
+C:\repos\infra\localinfra\auth\AspNetIdentity\bin\Debug\net6.0\IdentityServerCore.Storage.pdb
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\AspNetIdentity.csproj.AssemblyReference.cache
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\AspNetIdentity.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\AspNetIdentity.AssemblyInfoInputs.cache
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\AspNetIdentity.AssemblyInfo.cs
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\AspNetIdentity.csproj.CoreCompileInputs.cache
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\AspNetIdentity.csproj.CopyComplete
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\AspNetIdentity.dll
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\refint\AspNetIdentity.dll
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\AspNetIdentity.pdb
+C:\repos\infra\localinfra\auth\AspNetIdentity\obj\Debug\net6.0\ref\AspNetIdentity.dll

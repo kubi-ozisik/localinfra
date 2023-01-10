@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  authorization:
+    image: ${DOCKER_REGISTRY-}authorization
+    build:
+      context: .
+      dockerfile: Dockerfile

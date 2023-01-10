@@ -1,0 +1,23 @@
+version: '3.4'
+
+services:
+  portainer:
+    image: portainer/portainer-ce
+
+  # redis_local:
+  #   image: redis:alpine
+
+  # mongo_local:
+  #   image: mongo
+
+  # postgres_local:
+  #   image: postgres
+  # pgadmin:
+  #   image: dpage/pgadmin4
+
+  sqlserver_local:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+
+  # rabbitmq_local:
+  #   image: rabbitmq:3-management-alpine
+  

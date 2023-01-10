@@ -1,0 +1,15 @@
+C:\repos\infra\localinfra\auth\IdentityServerCore\bin\Debug\net6.0\IdentityServerCore.deps.json
+C:\repos\infra\localinfra\auth\IdentityServerCore\bin\Debug\net6.0\IdentityServerCore.dll
+C:\repos\infra\localinfra\auth\IdentityServerCore\bin\Debug\net6.0\IdentityServerCore.pdb
+C:\repos\infra\localinfra\auth\IdentityServerCore\bin\Debug\net6.0\IdentityServerCore.Storage.dll
+C:\repos\infra\localinfra\auth\IdentityServerCore\bin\Debug\net6.0\IdentityServerCore.Storage.pdb
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\IdentityServerCore.csproj.AssemblyReference.cache
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\IdentityServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\IdentityServerCore.AssemblyInfoInputs.cache
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\IdentityServerCore.AssemblyInfo.cs
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\IdentityServerCore.csproj.CoreCompileInputs.cache
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\IdentityServerCore.csproj.CopyComplete
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\IdentityServerCore.dll
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\refint\IdentityServerCore.dll
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\IdentityServerCore.pdb
+C:\repos\infra\localinfra\auth\IdentityServerCore\obj\Debug\net6.0\ref\IdentityServerCore.dll

@@ -1,0 +1,14 @@
+C:\repos\infra\localinfra\auth\Auth.Data\bin\Debug\net6.0\Auth.Data.deps.json
+C:\repos\infra\localinfra\auth\Auth.Data\bin\Debug\net6.0\Auth.Data.runtimeconfig.json
+C:\repos\infra\localinfra\auth\Auth.Data\bin\Debug\net6.0\Auth.Data.dll
+C:\repos\infra\localinfra\auth\Auth.Data\bin\Debug\net6.0\Auth.Data.pdb
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\Auth.Data.csproj.AssemblyReference.cache
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\Auth.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\Auth.Data.AssemblyInfoInputs.cache
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\Auth.Data.AssemblyInfo.cs
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\Auth.Data.csproj.CoreCompileInputs.cache
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\Auth.Data.dll
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\refint\Auth.Data.dll
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\Auth.Data.pdb
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\Auth.Data.genruntimeconfig.cache
+C:\repos\infra\localinfra\auth\Auth.Data\obj\Debug\net6.0\ref\Auth.Data.dll

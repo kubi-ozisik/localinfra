@@ -1,0 +1,12 @@
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\bin\Debug\net6.0\IdentityServerCore.Storage.deps.json
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\bin\Debug\net6.0\IdentityServerCore.Storage.dll
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\bin\Debug\net6.0\IdentityServerCore.Storage.pdb
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\obj\Debug\net6.0\IdentityServerCore.Storage.csproj.AssemblyReference.cache
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\obj\Debug\net6.0\IdentityServerCore.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\obj\Debug\net6.0\IdentityServerCore.Storage.AssemblyInfoInputs.cache
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\obj\Debug\net6.0\IdentityServerCore.Storage.AssemblyInfo.cs
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\obj\Debug\net6.0\IdentityServerCore.Storage.csproj.CoreCompileInputs.cache
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\obj\Debug\net6.0\IdentityServerCore.Storage.dll
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\obj\Debug\net6.0\refint\IdentityServerCore.Storage.dll
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\obj\Debug\net6.0\IdentityServerCore.Storage.pdb
+C:\repos\infra\localinfra\auth\IdentityServerCore.Storage\obj\Debug\net6.0\ref\IdentityServerCore.Storage.dll
